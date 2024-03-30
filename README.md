@@ -1,4 +1,4 @@
-# project-4-rock-paper-scissors
+# rock-paper-scissors
 ![r3](https://github.com/tasbeeha000/project-4-rock-paper-scissors/assets/137652796/0e93108c-03ce-4138-9ea8-9e2dd83cb96d)
 ![r5](https://github.com/tasbeeha000/project-4-rock-paper-scissors/assets/137652796/643fbc9a-aae9-488f-9112-a0d955203697)
 ![r6](https://github.com/tasbeeha000/project-4-rock-paper-scissors/assets/137652796/47073c38-2747-41e9-a4b2-0751341e6b7c)
